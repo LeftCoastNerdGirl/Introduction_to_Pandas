@@ -20,3 +20,14 @@ Calculations for district summary
 
 ![image](https://github.com/user-attachments/assets/620d3232-89a2-41b5-b2d4-81f3cca5eb9f)
 
+Calculations for school summary  
+-School type  
+-Total students per school  
+-Average spending per student at each school  
+-Average math and reading test scores per school  
+-Count of students passing math and passing reading per school  
+-Count of students passing both math and reading per school  
+-Percent of students passing math, percent of students passing readin, and percent of students passing both math and reading per school  
+-Display caluclations in a dataframe  
+
+![image](https://github.com/user-attachments/assets/b99c858a-c36d-4d5c-b1a0-935a1b9c8628)
