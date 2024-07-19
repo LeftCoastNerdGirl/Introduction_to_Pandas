@@ -31,3 +31,24 @@ Calculations for school summary
 -Display caluclations in a dataframe  
 
 ![image](https://github.com/user-attachments/assets/b99c858a-c36d-4d5c-b1a0-935a1b9c8628)
+
+Additional calculations to present to the school board and mayor for the budget planning  
+-Top performing schools based on percentage of students passing both math and reading  
+-Bottom performing schools based on percentage of students passing both math and reading  
+-Math scores by grade and school  
+-Reading scores by grade and school  
+-Comparison of scores based on average spending per student and school  
+-Comparison of scores based on school size  
+-Comparison of scores based on school type
+
+![image](https://github.com/user-attachments/assets/cff46937-6786-4fdf-815d-5f3b28b1249d)
+
+
+![image](https://github.com/user-attachments/assets/4e5c1ead-8dcf-41f7-a020-0bad754d9d6f)
+
+
+![image](https://github.com/user-attachments/assets/8def34f9-7a26-4c2b-acf6-ccc909066099)
+
+
+![image](https://github.com/user-attachments/assets/d1c887d9-f348-4521-a56a-856aa699af4b)
+
