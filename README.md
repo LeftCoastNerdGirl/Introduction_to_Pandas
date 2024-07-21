@@ -1,4 +1,4 @@
-# pandas_challenge_v2
+# Using Pandas within a Jupyter Notebook
 
 This challenge asks the student to import data schools size, type, and budget as well as a second file with reading and math scores for students in each of the schools. The goal is to provide analysis that will help the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
